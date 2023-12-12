@@ -2,7 +2,7 @@
 
 ## Description
 
-A progrmam built for finding the hidden words inside of any Cryptolex. 
+A program built for finding the hidden words inside of any Cryptolex. 
 
 ## Set up
 
