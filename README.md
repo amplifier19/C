@@ -15,7 +15,7 @@ git clone https://github.com/amplifier19/C.git
 ### Step 2)
 Compile the project
 ```
-cd ./C-main/Solve-Cryptolex
+cd ./C/Solve-Cryptolex
 gcc SolveCrypto.c -o SolveCrypto
 ```
 
